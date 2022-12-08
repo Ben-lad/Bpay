@@ -1011,4 +1011,8 @@ div.mem2>h6 {
   .eclipse {
     margin-top: -85%;
   }
+  
+  body{
+    margin: 0;
+  }
 }
